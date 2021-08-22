@@ -1,0 +1,28 @@
+c:\users\bb\documents\visual studio 2013\Projects\201318634_CUBRECAMAS\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+c:\users\bb\documents\visual studio 2013\Projects\201318634_CUBRECAMAS\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+c:\users\bb\documents\visual studio 2013\Projects\201318634_CUBRECAMAS\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+c:\users\bb\documents\visual studio 2013\Projects\201318634_CUBRECAMAS\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\bb\documents\visual studio 2013\Projects\201318634_CUBRECAMAS\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\bb\documents\visual studio 2013\Projects\201318634_CUBRECAMAS\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\bb\documents\visual studio 2013\Projects\201318634_CUBRECAMAS\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\bb\documents\visual studio 2013\Projects\201318634_CUBRECAMAS\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+c:\users\bb\documents\visual studio 2013\Projects\201318634_CUBRECAMAS\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+c:\users\bb\documents\visual studio 2013\Projects\201318634_CUBRECAMAS\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\BB\Desktop\201318634_CUBRECAMAS\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\BB\Desktop\201318634_CUBRECAMAS\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\BB\Desktop\201318634_CUBRECAMAS\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\BB\Desktop\201318634_CUBRECAMAS\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\BB\Desktop\201318634_CUBRECAMAS\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\BB\Desktop\201318634_CUBRECAMAS\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\BB\Desktop\201318634_CUBRECAMAS\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\BB\Desktop\201318634_CUBRECAMAS\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\BB\Desktop\201318634_CUBRECAMAS\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\BB\Desktop\201318634_CUBRECAMAS\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\BB\Desktop\Progra2\201318634_TAREAP1\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\BB\Desktop\Progra2\201318634_TAREAP1\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\BB\Desktop\Progra2\201318634_TAREAP1\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\BB\Desktop\Progra2\201318634_TAREAP1\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\BB\Desktop\Progra2\Progra2\201318634_TAREAP1\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\BB\Desktop\Progra2\Progra2\201318634_TAREAP1\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\BB\Desktop\Progra2\Progra2\201318634_TAREAP1\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\BB\Desktop\Progra2\Progra2\201318634_TAREAP1\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
