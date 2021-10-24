@@ -1,0 +1,10 @@
+c:\users\bb\documents\visual studio 2013\Projects\201318634_HOSPITAL\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\bb\documents\visual studio 2013\Projects\201318634_HOSPITAL\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\bb\documents\visual studio 2013\Projects\201318634_HOSPITAL\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\bb\documents\visual studio 2013\Projects\201318634_HOSPITAL\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\bb\documents\visual studio 2013\Projects\201318634_HOSPITAL\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\bb\documents\visual studio 2013\Projects\201318634_HOSPITAL\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\bb\documents\visual studio 2013\Projects\201318634_HOSPITAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\bb\documents\visual studio 2013\Projects\201318634_HOSPITAL\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\bb\documents\visual studio 2013\Projects\201318634_HOSPITAL\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\bb\documents\visual studio 2013\Projects\201318634_HOSPITAL\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
